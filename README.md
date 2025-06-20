@@ -12,6 +12,10 @@ A simple and fun browser-based game where you try to guess a randomly generated 
 - **Play Again:** Click the "Again!" button to reset the game and try to beat your highscore.
 - **Responsive UI:** Retro-styled interface with clear feedback and easy controls.
 
+## Preview
+![image](https://github.com/user-attachments/assets/6efef1e0-6387-46d4-b3ad-b6397641cc4e)
+
+
 ## How to Play
 
 1. Open `index.html` in your web browser.
